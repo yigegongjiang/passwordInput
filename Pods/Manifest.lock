@@ -2,9 +2,11 @@ PODS:
   - pop (1.0.7)
 
 DEPENDENCIES:
-  - pop (~> 1.0)
+  - pop
 
 SPEC CHECKSUMS:
   pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
 
-COCOAPODS: 0.38.2
+PODFILE CHECKSUM: 1a89ee1a91940854526fc0c6f1fe0b56f26a532d
+
+COCOAPODS: 1.0.0.beta.3
